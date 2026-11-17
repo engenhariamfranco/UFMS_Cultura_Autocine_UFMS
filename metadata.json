@@ -1,0 +1,6 @@
+{
+  "name": "UFMS Cultura — Autocine UFMS",
+  "description": "Módulo cultural interativo do aplicativo Sou UFMS para programação do Autocine UFMS, calendário, mapa de mobilidade e validação de horas de extensão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
